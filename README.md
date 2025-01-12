@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="40" alt="Express.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
@@ -59,11 +59,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="mailto:himanshu3141@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email logo" />
-  </a>
-  <img width="12" />
-  <a href="https://github.com/himanshu3141" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub logo" />
-  </a>
+<a href="mailto:himanshu3141@gmail.com" target="_blank">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40" alt="Gmail logo" />
+</a>
 </p>
